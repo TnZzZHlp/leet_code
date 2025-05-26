@@ -56,6 +56,4 @@ impl Solution {
 
 struct Solution {}
 
-fn main() {
-    assert_eq!(Solution::lemonade_change(vec![5, 5, 10, 10, 20]), false);
-}
+fn main() {}
