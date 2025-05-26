@@ -1,6 +1,7 @@
 ---
 date: 2025-05-24
 title: "1502. 判断能否形成等差数列"
+categories: ["LeetCode"]
 ---
 
 

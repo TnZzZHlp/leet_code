@@ -1,6 +1,7 @@
 ---
 date: 2025-05-23
 title: "1822. 数组元素积的符号"
+categories: ["LeetCode"]
 ---
 
 已知函数 signFunc(x) 将会根据 x 的正负返回特定值：

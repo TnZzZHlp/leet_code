@@ -1,6 +1,7 @@
 ---
 date: 2025-05-24
 title: "896. 单调数列"
+categories: ["LeetCode"]
 ---
 
 
